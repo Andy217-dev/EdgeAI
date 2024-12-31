@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="132"
+   height="46"
+   viewBox="0 0 132 46"
+   fill="none"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="66d71dd543386facbb50ff72_eaveai-hover.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.5138003"
+     inkscape:cx="67.323254"
+     inkscape:cy="13.086253"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <mask
+     id="mask0_992_3579"
+     style="mask-type:luminance"
+     maskUnits="userSpaceOnUse"
+     x="0"
+     y="0"
+     width="132"
+     height="46">
+    <path
+       d="M131.191 0H0.191406V45.4131H131.191V0Z"
+       fill="white"
+       id="path1" />
+  </mask>
+  <g
+     mask="url(#mask0_992_3579)"
+     id="g7">
+    <text
+       xml:space="preserve"
+       style="font-size:24.1278px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:1.00533"
+       x="55.686958"
+       y="30.664568"
+       id="text18"
+       transform="scale(1.0147159,0.98549751)"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="55.686958"
+         y="30.664568"
+         style="stroke-width:1.00533">EdgeAI</tspan></text>
+  </g>
+  <defs
+     id="defs18">
+    <linearGradient
+       id="paint0_linear_992_3579"
+       x1="91.3542"
+       y1="9.19127"
+       x2="94.9407"
+       y2="37.801"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="white"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#7D7DA3"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_992_3579"
+       x1="91.3577"
+       y1="9.19127"
+       x2="94.9442"
+       y2="37.801"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="white"
+         id="stop9" />
+      <stop
+         offset="1"
+         stop-color="#7D7DA3"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear_992_3579"
+       x1="91.3592"
+       y1="9.19087"
+       x2="94.9457"
+       y2="37.8006"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="white"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#7D7DA3"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="paint3_linear_992_3579"
+       x1="91.3551"
+       y1="9.19172"
+       x2="94.9416"
+       y2="37.8015"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="white"
+         id="stop13" />
+      <stop
+         offset="1"
+         stop-color="#7D7DA3"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="paint4_linear_992_3579"
+       x1="91.3555"
+       y1="9.19087"
+       x2="94.942"
+       y2="37.8006"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="white"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#7D7DA3"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="paint5_linear_992_3579"
+       x1="91.3565"
+       y1="9.19127"
+       x2="94.943"
+       y2="37.801"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="white"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#7D7DA3"
+         id="stop18" />
+    </linearGradient>
+  </defs>
+</svg>
